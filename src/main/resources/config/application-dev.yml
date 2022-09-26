@@ -32,7 +32,7 @@ spring:
       indent-output: true
   data:
     mongodb:
-      uri: mongodb://localhost:27017
+      uri: mongodb+srv://guest:guest@cluster0.l5hmi.mongodb.net/invoice?retryWrites=true&w=majority
       database: Invoice2
   mail:
     host: localhost
