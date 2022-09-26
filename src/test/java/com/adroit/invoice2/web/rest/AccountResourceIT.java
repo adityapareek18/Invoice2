@@ -14,7 +14,6 @@ import com.adroit.invoice2.security.AuthoritiesConstants;
 import com.adroit.invoice2.service.UserService;
 import com.adroit.invoice2.service.dto.AdminUserDTO;
 import com.adroit.invoice2.service.dto.PasswordChangeDTO;
-import com.adroit.invoice2.service.dto.UserDTO;
 import com.adroit.invoice2.web.rest.vm.KeyAndPasswordVM;
 import com.adroit.invoice2.web.rest.vm.ManagedUserVM;
 import java.time.Instant;

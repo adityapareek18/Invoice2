@@ -1,6 +1,5 @@
 package com.adroit.invoice2;
 
-import com.adroit.invoice2.Invoice2App;
 import com.adroit.invoice2.config.AsyncSyncConfiguration;
 import com.adroit.invoice2.config.EmbeddedKafka;
 import com.adroit.invoice2.config.EmbeddedMongo;
