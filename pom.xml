@@ -919,6 +919,11 @@
         </profile>
         <profile>
             <id>prod</id>
+            <activation>
+                <property>
+                    <name>prod</name>
+                </property>
+            </activation>
             <build>
                 <pluginManagement>
                     <plugins>
