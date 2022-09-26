@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = com.adroit.invoice2.config.TestContainersSpringContextCustomizerFactory
